@@ -1,6 +1,6 @@
 # EN.553.689
 Project Description
-From my daily life, I have been tired of doing glocery every week and then cleaning up dried spanish, stink chicken wings and clustered milk box from my refrigerator. No need to mention an extremely ancient steak that has been forgotten in the most deep layer of the frozen section.
+From my daily life, I have been tired of doing grocery every week and then cleaning up dried spanish, stink chicken wings and milk box from my refrigerator. No need to mention an extremely ancient steak that has been forgotten in the most deep layer of the frozen section.
 I indeed hope there can be a "SMART" refrigerator which can keep track of all the things I put into it, remind me of the status of my vegetables and even more.
 After I have done some market research the newly smart refrigerator, which has a touch screen on it and also a carmera just on the top the refrigerator gate. It can automatically capture the imagine of the things you put into your refrigerator (at least it can recognize an apple). It is pretty new (just released early this year), but not surprisingly expensive (~$4000, I mean it is not affordable for me but it has some market space at least). 
 
