@@ -15,11 +15,11 @@ After I watched these videos, I am be like "Damn, this is the type of product I 
    A deployable, moveable solution to the problem above (For example, a small, independently sold without a fancy refrigerator, carmera which can be attached on any device, and a software program (APP?) as the interface with the carmera)
 2) Achieveble?
    I am not very sure about this. Firstly, I do not have any software development experience. As I can see now, I will need some hardware (carmera?) as the source of imagine capturing and imagine classification software?
-4) Source of data?
+3) Source of data?
    I will create data by myself
-6) Main computation?
+4) Main computation?
    I believe imagine classification has been a mature field. With the help of AI, I don't think there will be a lot of computation I need to do by myself. 
-8) Features
+5) Features
    Discussed above
-10) Am I Excited?
+6) Am I Excited?
     Yes, Let'e beat Samsung with a cheaper solution. (Actually, I am quite sad when I see some product exactly match my requirement and expectation on this project. I mean if there is already such a product, what is the meaning of put my effort into this project?
