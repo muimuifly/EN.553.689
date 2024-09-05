@@ -5,9 +5,9 @@ I indeed hope there can be a "SMART" refrigerator which can keep track of all th
 After I have done some market research the newly smart refrigerator, which has a touch screen on it and also a carmera just on the top the refrigerator gate. It can automatically capture the imagine of the things you put into your refrigerator (at least it can recognize an apple). It is pretty new (just released early this year), but not surprisingly expensive (~$4000, I mean it is not affordable for me but it has some market space at least). 
 
 Here is a  few videos I found showing you this product
-https://www.youtube.com/shorts/Qbopo08hv4w?feature=share
-https://youtu.be/A2HqZnKIViI
-https://youtu.be/zRSM9iaHzIs
+- https://www.youtube.com/shorts/Qbopo08hv4w?feature=share
+- https://youtu.be/A2HqZnKIViI
+- https://youtu.be/zRSM9iaHzIs
 
 After I watched these videos, I am be like "Damn, this is the type of product I am looking for". However, there should be a lot of people like me either can not afford such luxury refrigerator or do not live in their own properties. I think there should be a simpler solution if my demand is only about having some hardware and software to help me keeping track of things I put into the refrigerator.
 
