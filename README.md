@@ -11,7 +11,7 @@ https://youtu.be/zRSM9iaHzIs
 
 After I watched these videos, I am be like "Damn, this is the type of product I am looking for". However, there should be a lot of people like me either can not afford such luxury refrigerator or do not live in their own properties. I think there should be a simpler solution if my demand is only about having some hardware and software to help me keeping track of things I put into the refrigerator.
 
-1) Objective of the project
+1) Objective of the project:
    A deployable, moveable solution to the problem above (For example, a small, independently sold without a fancy refrigerator, carmera which can be attached on any device, and a software program (APP?) as the interface with the carmera)
 2) Achieveble?
    I am not very sure about this. Firstly, I do not have any software development experience. As I can see now, I will need some hardware (carmera?) as the source of imagine capturing and imagine classification software?
