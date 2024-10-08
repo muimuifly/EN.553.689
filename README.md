@@ -16,10 +16,11 @@ After I watched these videos, I am be like "Damn, this is the type of product I 
 2) Achieveble?
    I am not very sure about this. Firstly, I do not have any software development experience. As I can see now, I will need some hardware (carmera?) as the source of imagine capturing and imagine classification software?
 3) Source of data?
-   I will create data by myself
-4) Main computation?
+   UPDATE: https://github.com/ustc-vim/vegfru
+   This can be a good dataset and well fit into the objective of this project.
+5) Main computation?
    I believe imagine classification has been a mature field. With the help of AI, I don't think there will be a lot of computation I need to do by myself. 
-5) Features
+6) Features
    Discussed above
-6) Am I Excited?
+7) Am I Excited?
     Yes, Let'e beat Samsung with a cheaper solution. (Actually, I am quite sad when I see some product exactly match my requirement and expectation on this project. I mean if there is already such a product, what is the meaning of put my effort into this project?
